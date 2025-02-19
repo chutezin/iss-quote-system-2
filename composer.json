@@ -1,0 +1,7 @@
+{
+    
+    "require": {
+        "ext-gd": "*",
+        "dompdf/dompdf": "^0.8.3"        
+    }
+}
